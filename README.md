@@ -1,4 +1,4 @@
-# tsp-ga-pso
+# TSP-GA-PSO
 *Project Description*
 
 *This project addresses the Traveling Salesman Problem (TSP) using two metaheuristic optimization algorithms:
